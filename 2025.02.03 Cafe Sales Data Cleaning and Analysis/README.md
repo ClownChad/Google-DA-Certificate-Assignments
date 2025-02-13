@@ -1,0 +1,1 @@
+This project was started in the middle of Course 5 of the Google Data Analytics Certificate. Its purpose was to practice cleaning data, organizing it in a meaningful way, and to analyze the sales data to find actionable insights.
