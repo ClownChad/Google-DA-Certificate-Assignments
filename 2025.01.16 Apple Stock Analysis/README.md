@@ -1,0 +1,1 @@
+This project was started towards the end of Course 2 of the Google Data Analytics Certificate. Its purpose was to introduce me to pivot tables, pulling data from them in a non-destructive way, and creating graphs in spreadsheets. It was a simple exploratory analysis of Apple stock price data.
